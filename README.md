@@ -1,1 +1,1 @@
-# lar_admin
+# laravel_admin
